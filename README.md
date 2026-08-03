@@ -1,2 +1,2 @@
-# home-monitor-v2
-Secure personal home monitoring dashboard built with Node.js, Express, and session-based login.
+
+git remote set-url origin https://github.com/your-username/Finshell-Home-Monitor.git
